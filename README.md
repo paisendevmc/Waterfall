@@ -1,4 +1,4 @@
-Waterfall
+Waterfall17
 =========
 
 Waterfall is a fork of the well-known [BungeeCord](https://github.com/SpigotMC/BungeeCord) server teleportation suite.
